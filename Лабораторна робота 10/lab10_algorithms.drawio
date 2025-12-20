@@ -1,0 +1,282 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.7">
+  <diagram name="Page-1" id="yuRNiV4Rfk6nFD75MCK9">
+    <mxGraphModel dx="1843" dy="1223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-1" target="QOU65ES5EGLjxq_EkpI6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-1" value="integr_func" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-3" target="QOU65ES5EGLjxq_EkpI6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-3" value="отримати аргумент:&lt;div&gt;x&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-5" target="QOU65ES5EGLjxq_EkpI6-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-5" value="повернути:&lt;div&gt;sin(x) + x * x&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-7" value="ВИХІД" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-9" target="QOU65ES5EGLjxq_EkpI6-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-9" value="integr_func2" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="380" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-10" target="QOU65ES5EGLjxq_EkpI6-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-10" value="отримати аргумент:&lt;div&gt;x&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-12" target="QOU65ES5EGLjxq_EkpI6-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-12" value="чисельник&lt;div&gt;numerator =&amp;nbsp;&lt;/div&gt;&lt;div&gt;sin(x) + cos(4 * x - x)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-13" target="QOU65ES5EGLjxq_EkpI6-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-13" value="знаменник&lt;div&gt;denominator =&amp;nbsp;&lt;/div&gt;&lt;div&gt;cos(x) - sin(4 * x - x)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-16" target="QOU65ES5EGLjxq_EkpI6-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-16" target="QOU65ES5EGLjxq_EkpI6-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-16" value="denominator != 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-20" target="QOU65ES5EGLjxq_EkpI6-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="540" />
+              <mxPoint x="440" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-20" value="повернути&lt;div&gt;0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-21" value="повернути&lt;div&gt;numerator / denominator&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-22" value="Так" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-23" value="Ні" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="380" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-24" value="ВИХІД" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="380" y="565" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-27" target="QOU65ES5EGLjxq_EkpI6-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-27" value="rectangle_method" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="720" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-28" target="QOU65ES5EGLjxq_EkpI6-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-28" value="отримати аргументи:&lt;div&gt;a, b, n&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-30" target="QOU65ES5EGLjxq_EkpI6-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-30" value="інтервал розбиття:&lt;div&gt;h = (b - a) / n&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-32" target="QOU65ES5EGLjxq_EkpI6-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-32" value="сума значень функції:&lt;div&gt;sum = 0.0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-34" target="QOU65ES5EGLjxq_EkpI6-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-34" target="QOU65ES5EGLjxq_EkpI6-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-34" value="Цикл обчислення&amp;nbsp;&lt;div&gt;суми:&lt;div&gt;для i від 0 до n&lt;/div&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=20;" vertex="1" parent="1">
+          <mxGeometry x="710" y="380" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-36" value="&lt;div&gt;Середина підінтервалу:&lt;/div&gt;x_i = a + h * (i + 0.5)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-36" target="QOU65ES5EGLjxq_EkpI6-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="590" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-38" target="QOU65ES5EGLjxq_EkpI6-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="610" />
+              <mxPoint x="680" y="610" />
+              <mxPoint x="680" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-38" value="sum += integr_func2(x_i)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;size=0.08333333333333333;" vertex="1" parent="1">
+          <mxGeometry x="720" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-42" target="QOU65ES5EGLjxq_EkpI6-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-42" value="повернути&lt;div&gt;sum * h&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-44" value="ВИХІД" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="860" y="540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-46" target="QOU65ES5EGLjxq_EkpI6-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-46" value="ПОЧАТОК" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-47" target="QOU65ES5EGLjxq_EkpI6-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1181" y="219.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-47" value="Обчислення визначеного інтеграла методом прямокутників" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1091" y="140" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-51" target="QOU65ES5EGLjxq_EkpI6-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-51" value="Ввід:&amp;nbsp;&lt;div&gt;a, b, n&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-52" target="QOU65ES5EGLjxq_EkpI6-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-56" value="ТАК" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QOU65ES5EGLjxq_EkpI6-54">
+          <mxGeometry x="-0.6988" relative="1" as="geometry">
+            <mxPoint y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-52" target="QOU65ES5EGLjxq_EkpI6-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-59" value="НІ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QOU65ES5EGLjxq_EkpI6-58">
+          <mxGeometry x="-0.1167" y="1" relative="1" as="geometry">
+            <mxPoint x="8" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-52" value="a == b?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1126" y="300" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1380" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1490" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-53" value="Помилка: межі інтегрування не&amp;nbsp;&lt;div&gt;можуть бути однаковими!&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="360" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-57" target="QOU65ES5EGLjxq_EkpI6-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-62" value="ТАК" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QOU65ES5EGLjxq_EkpI6-61">
+          <mxGeometry x="-0.3429" y="1" relative="1" as="geometry">
+            <mxPoint x="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1180.0000000000002" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1090" y="405" />
+              <mxPoint x="1090" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-57" value="a &amp;gt; b?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1126" y="380" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-60" target="QOU65ES5EGLjxq_EkpI6-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-60" value="a ⇄ b" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-63" target="QOU65ES5EGLjxq_EkpI6-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-71" value="НІ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QOU65ES5EGLjxq_EkpI6-70">
+          <mxGeometry x="-0.2346" y="-2" relative="1" as="geometry">
+            <mxPoint x="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-63" value="n &amp;lt;= 0?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1126" y="560" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1180" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1380" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-66" value="Помилка: кількість розбиттів має бути додатною!" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="650" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-67" value="ТАК" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-63" target="QOU65ES5EGLjxq_EkpI6-66">
+          <mxGeometry x="-0.7559" y="15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-69" target="QOU65ES5EGLjxq_EkpI6-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-69" value="result =&amp;nbsp;&lt;div&gt;rectangle_method(a, b, n)&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.05524861878452913;" vertex="1" parent="1">
+          <mxGeometry x="1091" y="650" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOU65ES5EGLjxq_EkpI6-72" target="QOU65ES5EGLjxq_EkpI6-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="800" as="sourcePoint" />
+            <mxPoint x="1160" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-72" value="Вивід: значення&amp;nbsp;&lt;div&gt;інтегралу&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;result&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="730" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOU65ES5EGLjxq_EkpI6-74" value="КІНЕЦЬ" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="830" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
